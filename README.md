@@ -1,2 +1,4 @@
 # Algorithms-and-Data-Structures-I
-Course taken in the summer semester of 2018
+Assignment 1. Aggregation
+Assignment 2. CPU Scheduling Simulator
+Assignment 3.
